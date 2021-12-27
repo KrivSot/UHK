@@ -1,3 +1,5 @@
+# Dešifrovací tabulka
+* https://cs.wikipedia.org/wiki/Matematick%C3%A9_symboly_a_zna%C4%8Dky
 # Relace
 * ![image](https://user-images.githubusercontent.com/56109982/147454630-9b19b8bb-aa1d-4ddc-9219-304d10da8fce.png)
 # Zobrazení
