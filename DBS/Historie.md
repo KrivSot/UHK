@@ -1,0 +1,42 @@
+# Databáze
+* Organizovaný soubor strukturovaných dat
+* Jsou mezi sebou navzájem propojeny pomocí **klíčů** (víc níže)
+
+## SQL databáze
+
+### Struktura SQL databáze
+- Tabulka
+- Záznamy (řádky)
+- Atributy (sloupce)
+
+### Datové typy
+
+## Struktura NoSQL databáze
+- Kolekce (collection)
+- Dokument (document)
+- Pole (field)
+
+### Sestavy
+* Uspořádání dat do tiskového výstupu
+* Zdrojem může být tabulka nebo sestava
+
+## Druhy
+### Hierarchické databáze
+* Data uspořádaná se stromové struktuře
+* První z datových modelů
+
+### Síťová databáze
+* Nástupce hierarchických databází, které značně vylepšil
+
+### Relační databáze
+* Moderní typ databáze, jak je známe dnes. 
+* Data uložena v tabulkách (řádky tvoří jednotlivé záznamy)
+* Jsou vzájemně propojené pomocí tzv. **klíčů** (Vyjadřují vztahy mezi daty.
+  * **Primární klíč** - Musí být unikátní a nesmí být nulový (Slouží jako cizí klíč v ostatních tabulkách)
+  * **Cizí klíč** - Odkazuje na další tabulku
+
+### Objektové databáze
+* Ukládají v databázích objekty
+
+## Databáze vs Soubory
+* databáze fungují mnohem rychleji, bývají optimalizovány pro přístup více uživatelů a obsahují mechanismy, které práci s daty usnadňují
