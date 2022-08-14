@@ -1,4 +1,4 @@
-# Programování (NVZ = Nebude v započtu)
+# Mikroekonomie (NVZ = Nebylo v započtu)
 
 ## Příklady
 * [Dekorátor](https://github.com/Vofy/Maturita-PRG-Zmrzlina)
