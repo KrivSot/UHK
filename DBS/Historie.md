@@ -11,6 +11,7 @@
 | 1970 | Vznik relačních databázových systémů  | Na data pohlížejí jako na tabulky                 |                    |                    |
 | 1974 | Vznik SQL | vznik první verze SQL. Plně implementován až od roku 1978 |                     | SQL dotazy |
 | 1980 | Databázové systémy pro PC | Oracle vydal první verzi SQL databazi na trhu |                     |  |
+| 90. léta | Objektově orientované databáze | Informace uložena v objektech |                     |  |
 
 ## SQL databáze
 
